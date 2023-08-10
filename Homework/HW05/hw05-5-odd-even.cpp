@@ -33,5 +33,5 @@ int main()
         printf( "%d is an odd integer", input ) ;
     }
     
-    return 0;
+    return 0 ;
 }
